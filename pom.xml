@@ -29,6 +29,12 @@
             <artifactId>commons-pool2</artifactId>
         </dependency>
 
+        <!-- jedis -->
+        <dependency>
+            <groupId>redis.clients</groupId>
+            <artifactId>jedis</artifactId>
+        </dependency>
+
         <!-- springboot web -->
         <dependency>
             <groupId>org.springframework.boot</groupId>

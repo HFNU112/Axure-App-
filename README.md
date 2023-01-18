@@ -10,10 +10,13 @@
 ![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-15_18-02-18.png)
 
 2. 商户查询
-![输入图片说明]()
+![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-18_23-15-15.png)
+![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-18_23-16-22.png)
 
 3. 店铺类型查询
-![输入图片说明]()
+
+![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-18_23-18-24.png)
+![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-18_23-19-30.png)
 
 #### 特技
 

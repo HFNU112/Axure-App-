@@ -18,8 +18,10 @@ import javax.annotation.Resource;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.TimeUnit;
 
 import static com.hmdp.utils.RedisConstants.CACHE_SHOPTYPE_KEY;
+import static com.hmdp.utils.RedisConstants.CACHE_SHOPTYPE_TTL;
 
 /**
  * <p>
@@ -57,6 +59,7 @@ public class ShopTypeServiceImpl extends ServiceImpl<ShopTypeMapper, ShopType> i
         for (ShopType shopType : shopTypesMysql) {
             String type = JSONUtil.toJsonStr(shopType);
             stringRedisTemplate.opsForList().rightPushAll(CACHE_SHOPTYPE_KEY, type);
+            stringRedisTemplate.expire(CACHE_SHOPTYPE_KEY, CACHE_SHOPTYPE_TTL, TimeUnit.MINUTES);
         }
         // 7.返回店铺信息
         return Result.ok(shopTypesMysql);

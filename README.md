@@ -22,8 +22,10 @@
 
 4. 查询商户缓存和数据库一致
 
-![输入图片说明]()
-![输入图片说明]()
+![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-20_07-17-48.png)
+![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-20_07-19-19.png)
+![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-20_07-20-05.png)
+![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-20_07-20-32.png)
 
 
 #### 特技

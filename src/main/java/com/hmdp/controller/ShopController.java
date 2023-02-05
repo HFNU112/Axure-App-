@@ -50,15 +50,13 @@ public class ShopController {
     }
 
     /**
-     * 更新商铺信息
+     * 更新商铺信息实现redis和数据库一致性
      * @param shop 商铺数据
      * @return 无
      */
     @PutMapping
     public Result updateShop(@RequestBody Shop shop) {
-        // 写入数据库
-        shopService.update(shop);
-        return Result.ok();
+        return shopService.update(shop);
     }
 
     /**

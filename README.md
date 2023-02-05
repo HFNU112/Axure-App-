@@ -10,17 +10,18 @@
 ![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/imge_2023-01-15_18-01-15.png)
 ![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-15_18-02-18.png)
 
-2. 商户查询
+2. 商铺查询
 
 ![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-18_23-15-15.png)
 ![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-18_23-16-22.png)
 
 3. 店铺类型查询
 
+![输入图片说明]()
 ![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-18_23-18-24.png)
 ![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-18_23-19-30.png)
 
-4. 查询商户缓存和数据库一致
+4. 查询商铺缓存和数据库一致
 
 ![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-20_07-17-48.png)
 ![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-20_07-19-19.png)

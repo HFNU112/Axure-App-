@@ -1,2 +1,3 @@
 com\hmdp\HmDianPingApplicationTests.class
+com\hmdp\redis\TimeStampTest.class
 com\hmdp\redis\jedisTest.class

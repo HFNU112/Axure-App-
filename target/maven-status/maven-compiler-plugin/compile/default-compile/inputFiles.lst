@@ -13,6 +13,7 @@ E:\springboot_03_web_work\springboot_04_hm-dianping\src\main\java\com\hmdp\entit
 E:\springboot_03_web_work\springboot_04_hm-dianping\src\main\java\com\hmdp\mapper\ShopMapper.java
 E:\springboot_03_web_work\springboot_04_hm-dianping\src\main\java\com\hmdp\entity\User.java
 E:\springboot_03_web_work\springboot_04_hm-dianping\src\main\java\com\hmdp\entity\BlogComments.java
+E:\springboot_03_web_work\springboot_04_hm-dianping\src\main\java\com\hmdp\utils\CacheClient.java
 E:\springboot_03_web_work\springboot_04_hm-dianping\src\main\java\com\hmdp\mapper\UserMapper.java
 E:\springboot_03_web_work\springboot_04_hm-dianping\src\main\java\com\hmdp\controller\VoucherController.java
 E:\springboot_03_web_work\springboot_04_hm-dianping\src\main\java\com\hmdp\controller\ShopController.java
@@ -40,6 +41,7 @@ E:\springboot_03_web_work\springboot_04_hm-dianping\src\main\java\com\hmdp\servi
 E:\springboot_03_web_work\springboot_04_hm-dianping\src\main\java\com\hmdp\entity\Voucher.java
 E:\springboot_03_web_work\springboot_04_hm-dianping\src\main\java\com\hmdp\utils\UserHolder.java
 E:\springboot_03_web_work\springboot_04_hm-dianping\src\main\java\com\hmdp\controller\BlogController.java
+E:\springboot_03_web_work\springboot_04_hm-dianping\src\main\java\com\hmdp\utils\RedisWork.java
 E:\springboot_03_web_work\springboot_04_hm-dianping\src\main\java\com\hmdp\utils\RegexUtils.java
 E:\springboot_03_web_work\springboot_04_hm-dianping\src\main\java\com\hmdp\service\impl\UserInfoServiceImpl.java
 E:\springboot_03_web_work\springboot_04_hm-dianping\src\main\java\com\hmdp\HmDianPingApplication.java

@@ -6,16 +6,22 @@
 #### 项目展示
 
 1. 短信登录
-![输入图片说明]()
+![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/upload/img_login_error.jpg "login_error.jpg")
+
+![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/upload/img_login_success.jpg "login_success.jpg")
 
 2. 店铺详情查询
-![输入图片说明]()
+![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/upload/img_shopinfo_1.jpg "shop_1.jpg")
+
+![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/upload/img_shop_2.jpg "shop_2.jpg")
 
 3. 店铺类型查询
-![输入图片说明]()
+![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/upload/img_shoptype.jpg "shoptype.jpg")
 
 4. 查询商铺缓存和数据库一致
-![输入图片说明]()
+![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/upload/img_redis_shop_mysql_103.jpg "shop_consist1.jpg")
+
+![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/upload/img_redis_shop_mysql_301.jpg "shop_consist2.jpg")
 
 
 

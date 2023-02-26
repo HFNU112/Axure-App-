@@ -6,27 +6,17 @@
 #### 项目展示
 
 1. 短信登录
+![输入图片说明]()
 
-![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/imge_2023-01-15_18-01-15.png)
-![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-15_18-02-18.png)
-
-2. 商铺查询
-
-![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-18_23-15-15.png)
-![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-18_23-16-22.png)
+2. 店铺详情查询
+![输入图片说明]()
 
 3. 店铺类型查询
-
-![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/blob/master/remoteImg/image_2023-02-04_23-31-14.png)
-![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-18_23-18-24.png)
-![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-18_23-19-30.png)
+![输入图片说明]()
 
 4. 查询商铺缓存和数据库一致
+![输入图片说明]()
 
-![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-20_07-17-48.png)
-![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-20_07-19-19.png)
-![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-20_07-20-05.png)
-![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/remoteImg/image_2023-01-20_07-20-32.png)
 
 
 #### 特技

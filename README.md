@@ -26,6 +26,7 @@
 5. 使用优惠券下订单
 ![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/upload/img_voucher_order1.jpg "voucher_order1.jpg")
 
+![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/upload/img_voucher_order2.jpg "voucher_order2.jpg")
 
 #### 特技
 

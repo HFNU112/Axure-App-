@@ -28,7 +28,8 @@
 
 ![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/upload/img_voucher_order2.jpg "voucher_order2.jpg")
 
-![输入图片说明]()
+![输入图片说明](https://gitee.com/hfnu_112/springboot_04_dianping/raw/master/upload/img_voucher_order3.jpg "voucher_order3.jpg")
+
 #### 特技
 
 1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
